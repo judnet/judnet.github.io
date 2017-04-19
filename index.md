@@ -11,7 +11,7 @@
 - [Mail](https://mail.bfh.ch/owa/#path=/mail)
 - [Calendar](https://mail.bfh.ch/owa/#path=/calendar)
 - [OneDrive](https://bernerfachhochschule-my.sharepoint.com/personal/jjr1_bfh_ch/)
-- [OneNote]("https://bernerfachhochschule-my.sharepoint.com/personal/jjr1_bfh_ch/_layouts/15/WopiFrame.aspx?sourcedoc={0E678C0B-4C0B-412A-B43E-1CC7C4724BE2}&file=Reto Jud @ BFH&action=default")
+- [OneNote](https://bernerfachhochschule-my.sharepoint.com/personal/jjr1_bfh_ch/_layouts/15/WopiFrame.aspx?sourcedoc={0E678C0B-4C0B-412A-B43E-1CC7C4724BE2}&file=Reto%20Jud%20@%20BFH&action=default)
 - [Tresorit](https://web.tresorit.com/browse)
 - [Microsoft Office Portal](https://portal.office.com/Home)
 ## Miscellaneous
