@@ -15,8 +15,8 @@
 - [Tresorit](https://web.tresorit.com/browse)
 - [Microsoft Office Portal](https://portal.office.com/Home)
 - [ARZ Citrix](https://arz.bfh.ch)
-- [VPN](https://vpn.bfh.ch) \(including Cisco Anyconnect\)
+- [VPN](https://vpn.bfh.ch) \(including Anyconnect\)
 ## Miscellaneous
 - [Manage Domain](https://www.gandi.net/admin/domain/detail/314070)
 ## Administration
-- [Edit Page](https://github.com/judnet/judnet.github.io/blob/master/index.md)
+- [Edit Page](https://github.com/judnet/judnet.github.io/edit/master/index.md)
