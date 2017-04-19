@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Portal</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css"></head>
+	<body>
+		<div class="container">
+			<h1>Personal</h1>
+			<ul>
+				<li><a href="https://mail.google.com/a/jud.net/">Mail</a>
+				<li><a href="https://calendar.google.com/calendar/">Calendar</a>
+				<li><a href="https://onedrive.live.com/?id=root&cid=92458595FFC48F21">OneDrive</a>
+				<li><a href="https://www.onenote.com/notebooks?auth=2">OneNote</a>
+				<li><a href="https://cp.sync.com/files/">Sync Files</a>
+				<li><a href="https://photos.google.com/">Photos</a>
+				<li><a href="http://www.google.com/a/cpanel/jud.net/CPanelHome">Google Admin Console</a>
+			</ul>
+			<h1>Work</h1>
+			<ul>
+				<li><a href="https://mail.bfh.ch/owa/#path=/mail">Mail</a>
+				<li><a href="https://mail.bfh.ch/owa/#path=/calendar">Calendar</a>
+				<li><a href="https://bernerfachhochschule-my.sharepoint.com/personal/jjr1_bfh_ch/">OneDrive</a>
+				<li><a href="https://bernerfachhochschule-my.sharepoint.com/personal/jjr1_bfh_ch/_layouts/15/WopiFrame.aspx?sourcedoc={0E678C0B-4C0B-412A-B43E-1CC7C4724BE2}&file=Reto Jud @ BFH&action=default">OneNote</a>
+				<li><a href="https://web.tresorit.com/browse">Tresorit</a>
+				<li><a href="https://portal.office.com/Home">Microsoft Office Portal</a>
+			</ul>
+			<h1>Miscellaneous Services</h1>
+			<ul>
+				<li><a href="https://www.gandi.net/admin/domain/detail/314070">Manage Domain</a>
+			</ul>
+			<h1>Admin</h1>
+			<ul>
+				<li><a href="https://github.com/judnet/judnet.github.io/blob/master/index.html">Edit Page</a>
+			</ul>
+		</div><!-- /.container -->
+	</body>
+</html>
