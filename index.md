@@ -9,6 +9,7 @@ title: Portal
 - [Sync Files](https://cp.sync.com/files/)
 - [Photos](https://photos.google.com/)
 - [Google Admin Console](http://www.google.com/a/cpanel/jud.net/CPanelHome)
+
 ## Work
 - [Mail](https://mail.bfh.ch/owa/#path=/mail)
 - [Calendar](https://mail.bfh.ch/owa/#path=/calendar)
@@ -18,7 +19,9 @@ title: Portal
 - [Microsoft Office Portal](https://portal.office.com/Home)
 - [ARZ Citrix](https://arz.bfh.ch)
 - [VPN](https://vpn.bfh.ch) \(including Anyconnect\)
+
 ## Miscellaneous
 - [Manage Domain](https://www.gandi.net/admin/domain/detail/314070)
+
 ## Administration
 - [Edit Page](https://github.com/judnet/judnet.github.io/edit/master/index.md)
