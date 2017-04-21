@@ -1,7 +1,7 @@
 ---
 title: Portal
 ---
-## Personal
+## Home
 - [Mail](https://mail.google.com/a/jud.net/)
 - [Calendar](https://calendar.google.com/calendar/)
 - [ToDo](https://todo.microsoft.com/)
@@ -21,8 +21,8 @@ title: Portal
 - [ARZ Citrix](https://arz.bfh.ch)
 - [VPN](https://vpn.bfh.ch) \(including Anyconnect\)
 
-## Miscellaneous
+## Misc.
 - [Manage Domain](https://www.gandi.net/admin/domain/detail/314070)
 
-## Administration
+## Admin
 - [Edit Page](https://github.com/judnet/judnet.github.io/edit/master/index.md)
