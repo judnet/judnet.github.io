@@ -9,6 +9,7 @@ title: Portal
 - [OneNote](https://www.onenote.com/notebooks?auth=2)
 - [Sync Files](https://cp.sync.com/files/)
 - [Photos](https://photos.google.com/)
+- [Friends](https://www.icloud.com/#fmf)
 - [Google Admin Console](http://www.google.com/a/cpanel/jud.net/CPanelHome)
 
 ## Work
