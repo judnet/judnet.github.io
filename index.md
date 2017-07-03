@@ -21,6 +21,9 @@ title: Portal
 - [Microsoft Office Portal](https://portal.office.com/Home)
 - [ARZ Citrix](https://arz.bfh.ch)
 - [VPN](https://vpn.bfh.ch) \(including Anyconnect\)
+- [Moodle](https://moodle.bfh.ch/course/index.php?categoryid=42)
+-- [W](https://moodle.bfh.ch/course/view.php?idnumber=infowirtschaft)
+-- [BWI](https://moodle.bfh.ch/course/view.php?idnumber=infobwi)
 
 ## Misc.
 - [Manage Domain](https://www.gandi.net/admin/domain/detail/314070)
