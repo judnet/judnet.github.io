@@ -3,8 +3,8 @@ title: Portal
 ---
 
 ## Top
-- Monbijoubrücke - Europaplatz: 05 / 20 / 35 / 50
-- Europaplatz - Monbijoubrücke: 09 / 24 / 39 / 54
+- [Monbijoubrücke - Europaplatz](https://www.sbb.ch/de/kaufen/pages/fahrplan/fahrplan.xhtml?von="bern, monbijoubrücke"&nach="bern europaplatz"&vias=%5B"bern, huberstrasse"%5D&suche=true): 05 / 20 / 35 / 50
+- [Europaplatz - Monbijoubrücke](https://www.sbb.ch/de/kaufen/pages/fahrplan/fahrplan.xhtml?nach="bern, monbijoubrücke"&von="bern europaplatz"&vias=%5B"bern, huberstrasse"%5D&suche=true): 09 / 24 / 39 / 54
 
 ## Home
 - [Mail](https://mail.google.com/a/jud.net/)
